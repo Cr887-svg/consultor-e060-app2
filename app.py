@@ -26,7 +26,6 @@ modelo = genai.GenerativeModel("gemini-flash-latest")
 # ============================================================
 RUTA_NORMA = os.path.join(
     os.path.dirname(__file__),
-    "Norma",
     "55 E.060 CONCRETO ARMADO DS N° 010-2009.pdf"
 )
 
