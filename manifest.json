@@ -1,0 +1,17 @@
+{
+  "name": "Consultor E.060 - Concreto Armado",
+  "short_name": "E.060",
+  "description": "Consultor offline de la Norma Técnica Peruana E.060 - Concreto Armado",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#0f1117",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
